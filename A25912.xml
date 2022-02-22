@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles against the Lord Mandevill, Mr. Iohn Pym, M. Denzell Hollis, Sir Arthur Hazelrig, Mr. Hambden, and Mr. Strowd also the French and Spanish fleet arrived at Ireland, for the assistance of the rebels there : being a true relation of the Spanish fleet arrived in Ireland to ayd and assist the rebels there against the Protestants, speaking of their inhumane cruelty : with a description how the Popes nuncio came unto the King of Spaine, and instigated him thereunto : as also, of the Spanish oath, which they tooke at the first arrival against all Protestants whatsoever : likewise a relation of the French navie now lately arrived at the Irish coast, with the full number of both fleets, in a most true and exact relation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25912</idno>
+            <idno type="STC">Wing A3803</idno>
+            <idno type="STC">ESTC R2043</idno>
+            <idno type="EEBO-CITATION">12369446</idno>
+            <idno type="OCLC">ocm 12369446</idno>
+            <idno type="VID">60527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60527)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 884:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles against the Lord Mandevill, Mr. Iohn Pym, M. Denzell Hollis, Sir Arthur Hazelrig, Mr. Hambden, and Mr. Strowd also the French and Spanish fleet arrived at Ireland, for the assistance of the rebels there : being a true relation of the Spanish fleet arrived in Ireland to ayd and assist the rebels there against the Protestants, speaking of their inhumane cruelty : with a description how the Popes nuncio came unto the King of Spaine, and instigated him thereunto : as also, of the Spanish oath, which they tooke at the first arrival against all Protestants whatsoever : likewise a relation of the French navie now lately arrived at the Irish coast, with the full number of both fleets, in a most true and exact relation.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Gr,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hampden, John, 1594-1643.</term>
+               <term>Holles, Denzil Holles, --  Baron, 1599-1680.</term>
+               <term>Manchester, Edward Montagu, --  Earl of, 1602-1671.</term>
+               <term>Hesilrige, Arthur, --  Sir, d. 1661.</term>
+               <term>Pym, John, 1584-1643.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60527:1" rendition="simple:additions"/>
+            <p>ARTICLES againſt the Lord Mandevill, Mr. Iohn Pym, M. Den<g ref="char:EOLhyphen"/>zell Hollis, Sir Arthur Hazelrig, Mr. Hambden, and Mr. Strowd.</p>
+            <p>ALSO THE FRENCH AND SpANISH FLEET Arrived at Ireland, for the Aſſiſtance of the Rebels there.</p>
+            <p>BEING A true Relation of the Spaniſh Fleet Arrived in <hi>Ireland</hi> to ayd and aſſiſt the Rebels there againſt the Proteſtants, ſpeaking of their inhumane cruelty. With a Deſcription how the Popes Nuncio came unto the King of Spaine, and inſtigated him there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>As alſo, of the Spaniſh Oath which they tooke at the firſt Arrivall a<g ref="char:EOLhyphen"/>gainſt all proteſtants whatſoever.</p>
+            <p>Likewiſe a Relation of the French Navie now lately arrived at the Iriſh Coaſt, with the full Number of both Fleets, in a moſt true and exact Relation.</p>
+            <p>
+               <hi>LONDON, Printed for</hi> John Gr, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:60527:2"/>
+            <pb facs="tcp:60527:2"/>
+            <head>THE FRENCH and SPANISH FLEET Arrived at Ireland.</head>
+            <p>THe French-men having great and plenary intelligence of the Papiſts proceedings in <hi>Ireland,</hi> after long debate and private confe<g ref="char:EOLunhyphen"/>deracy concerning the ſame effect, they ſent with<g ref="char:EOLhyphen"/>out any intermiſſion of longer time a Herauld of Armes to <hi>Tyrone</hi> (that Arch-rebell in <hi>Ireland</hi> cer<g ref="char:EOLhyphen"/>tifying him, that if they were defective, or had any need of auxiliary aſsiſtance, they would inſtantly conjoyne with unanimity, and defend their party with conſtant puiſſance, Whereupon <hi>Tyrone</hi> grati<g ref="char:EOLhyphen"/>ouſly returned an Anſwer, that he was much reſpe<g ref="char:EOLhyphen"/>ctive towards them, and promiſed the uttermoſt of their intents, and indeavours to performe the beſt courteſie for their ſo gratious a Meſſage con<g ref="char:EOLhyphen"/>cerning the demolition of proteſtant Religion, and withall beſeeched, and earneſtly requeſted them to raiſe ſome ſudden force, and to ſend a Navie with great expedition unto them, that they might fully ſubdue the whole kingdome of <hi>Ireland.</hi> This Em<g ref="char:EOLhyphen"/>baſſage being re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urned, they (after mature, and ſeri<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:60527:3"/>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>long and conected with a re<g ref="char:EOLhyphen"/>gular aggregation the number of ſixe thouſand men of Arms to goe ſpeedily into <hi>Ireland,</hi> with 9 ſhips fully loaden with Armes, Ammunition, and ſtrong fortification for the ſame purpoſe and intent. And being thus provided for <hi>Ireland,</hi> they ſeemed to go on with great alacrity, untill they came to the full ohject of their unanimous expectation: where they were very nobly entertained, and with great favour and affectionate reſpection. Wherefore they being landed at the Port of <hi>Cavarre</hi> marched on ſtill, un<g ref="char:EOLhyphen"/>till they came beyond the <hi>Territories</hi> of that king<g ref="char:EOLhyphen"/>dome to <hi>Armagh,</hi> where they began a promiſcuous rnd tumultuous clamar among the people, ſlaying, and deſtroying whomſoever they could meet with, of what ſect, degree, or Age ſoever.</p>
+            <p>When as they met with the Rebels, they had great and ſingular congratulation, who immediatly conducted them with great expedition to that fa<g ref="char:EOLhyphen"/>mous, renowned, and honourable City of Dublin, who incontinently beſieged the ſame, and moſt ty<g ref="char:EOLhyphen"/>rannically aſſaulted, whenſoever they met.</p>
+            <p>The ſaid Caſtle of Dublin they intended to take the eighteenth day of December, and without any humane partiality they did put the poore prote<g ref="char:EOLhyphen"/>ſtants to the intolerable miſerie, and deplorable ca<g ref="char:EOLhyphen"/>lamitie.</p>
+            <p>There was great and unexpected ſolemnity, tri<g ref="char:EOLhyphen"/>umph, and celebration at the French fleet arrived in
+<pb facs="tcp:60527:3"/>the p<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <hi>Territories</hi> of <hi>Ireland,</hi> who came to aſ<g ref="char:EOLhyphen"/>ſiſt the Rebels in ſo divelliſh and diabolicall a de<g ref="char:EOLhyphen"/>ſigne, and to auxiliate then againſt the proteſtants, that profeſſe the true and ſincere purity of religi<g ref="char:EOLhyphen"/>on: but I hope in Gods omnipotencie that all their plots will be emoliſhed.</p>
+            <div type="part">
+               <head>The Spaniſh Fleet arrived in Ireland.</head>
+               <p>SIR <hi>Patricke Devons</hi> collected a numerous mul<g ref="char:EOLhyphen"/>titude out of <hi>Spaine</hi> to goe into <hi>Ireland,</hi> for the aſſiſtance of the ſaid Papiſts there congregated, and plotting the utter ſubverſion of true Chriſtian religion.</p>
+               <p>He had under his command five thouſand men in Armes, who came in a Navie into <hi>Ireland</hi> to the auxiliation of the rebels.</p>
+               <p>Where at their arrivall, Tyrone and his confede<g ref="char:EOLhyphen"/>rats joyfully entertained him. The cauſe of their firſt commotion, and furious inſurrection was this.</p>
+               <p>The Popes <hi>Nuntio</hi> tranſported ſuch Newes into <hi>Spaine,</hi> that his ſupremacie was pleaſed to ſupplant the Kingdome of <hi>England,</hi> and all their Adherents: and becauſe they were Hereticks.
+<pb facs="tcp:60527:4"/>Therefore his Primacie wold vouchſafe to depoſe them all. After this Nuncio's meſſage reported to the King of <hi>Spaine,</hi> he impoſed, and committed all the ſubſequent to Sir <hi>Patrick Devons</hi> in <hi>Ireland,</hi> who immediately by the command of the King of <hi>Spain</hi> went under the conduct of 5000. ſouldiers, who ar<g ref="char:EOLhyphen"/>riving at the Iriſh Coaſt were royally entertained by ſome of the chiefe of the Rebels.</p>
+               <p>They ſeemed to be very inhumane, and withall they tooke a private Oath among themſelves, that whatſoever Proteſtant they ſhould meer, or any inclining to the Proteſtant Religion, hee or they ſhould be incontinently ſlaine without any partia<g ref="char:EOLhyphen"/>lity at all, and he or they, or any of them that ſhould deny the ſame ſhuld be expel'd as a traytor to their party. Thus they proceeded in their vnchriſtian and tyrannicall ſlaughter, putting all to the ſword, that they could meet obviouſly of the Proteſtant religi<g ref="char:EOLhyphen"/>on and profeſſion.</p>
+               <p>We ſee therefore, and may apparently perceive how bloudily theſe rebels proceed in their cruelty and therefore we ought not to ſleepe in the chaires of ſecurity, and ſuffer our poore Brethren to ſuffer there in great violation, and miſerable calamity,</p>
+               <p>For ſecuritie is the very doore that opens the ve<g ref="char:EOLhyphen"/>ry plaine way to deſtruction. And I pray God whilſt many of us doe thinke our ſelves ſafe on the ſleeping beds of ſecurity, that the enemy doth not cut our throats.</p>
+               <p>While Eſau prolonged the time, Jacob ſtole away his birth-right: And I pray God, while were
+<pb facs="tcp:60527:4"/>procraitinate and deferre the time in helping out <hi>Brethren</hi> in <hi>Ireland,</hi> that a forreine enemy doe not ſteale away the renowned Prerogative of this Kingdome, and ſo conſequently it become a con<g ref="char:EOLhyphen"/>quered Nation.</p>
+               <p>While the men in the holy Goſpell ſlept, the Enemy ſowed tares amongſt the wheat, and I am ſure while we neglect the proper time, many teares of Diſcord, and ſchiſmaticall diſſention are ſowne amongſt us. But I hope that God, who heretofore have alwayes defended, and preſerved this King<g ref="char:EOLhyphen"/>dome of his ſingular mercy, and favourable omni<g ref="char:EOLhyphen"/>potencie, will ſtill defend the ſame for ever, to the propagation of his Truth and Goſpell.</p>
+            </div>
+            <trailer>FINJS.</trailer>
+         </div>
+         <div type="articles_of_indictment">
+            <pb facs="tcp:60527:5" rendition="simple:additions"/>
+            <head>ARTICLES O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> High treaſon againſt the Lord Mandevill, Mr. Pym, Mr. Denzell Hollis, Sir Arthur Hazelrig, Mr. Hambden, and Mr. Strowde.</head>
+            <p>THat they have traytorouſly indeavoured to ſubvert the fundamentall laws, and govern<g ref="char:EOLhyphen"/>ment of the Kingdome of <hi>England,</hi> and to deprive the King of his royall power, and to place in ſubjects in arbitrary power over the lives, liber<g ref="char:EOLhyphen"/>ties, and eſtates of his Majeſties liege people.</p>
+            <p n="2">2. They have indeavoured to lay many foule a<g ref="char:EOLhyphen"/>ſperſions upon his Majeſty and his government to alienate the affections of his people, and to make his Majeſty odious vnto them.</p>
+            <p n="3">3 They have indeavoured to draw his Majeſties late Army into diſobedience to his Majeſties Com<g ref="char:EOLhyphen"/>mands, and to ſide with them in their trayterous deſignes.</p>
+            <p n="4">4. They have trayterouſly invited, and incoura<g ref="char:EOLhyphen"/>ged a forreine power to invade his Majeſties King<g ref="char:EOLhyphen"/>dome of <hi>England.</hi>
+            </p>
+            <p n="5">5. They have traytorouſly indeavoured to ſubvert the Rights, and very Being of parliaments.</p>
+            <p n="7">7. For compleating of their treacherous deſigns, they have indeavoured as far as in them lay by force and terror to compell the parliament to joyne with them in their traiterous deſigns and to that end hath actually raiſed and countenanced Tumults againſt the King and parliament.</p>
+            <p n="7">7. That they have traiterouſly conſpired to levie and have actually levied power againſt the King.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
